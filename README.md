@@ -1,5 +1,5 @@
 # blockchain-tutorial
-<iframe src="https://player.vimeo.com/video/262600232" width="640" height="419" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<video src="https://player.vimeo.com/video/262600232" width="640" height="419" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></video>
 
 Tutorial for Blockchain / Cryptocurrency Development in Javascript
 
