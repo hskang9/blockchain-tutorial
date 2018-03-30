@@ -1,9 +1,12 @@
 # blockchain-tutorial
+![demo](https://ibb.co/hTbc0S)
+
 Tutorial for Blockchain / Cryptocurrency Development in Javascript
 
 
+
 # Table of Contents
----
+
 ## 1. Introduction: Architecture of your blockchain
   - 1-1. What is a blockchain anyway
   - 1-2. It All Started with a Hash Function
