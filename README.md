@@ -1,5 +1,5 @@
 # blockchain-tutorial
-![demo](https://ibb.co/hTbc0S)
+![demo](https://preview.ibb.co/c3WALS/Screen_Shot_2018_03_31_at_8_39_54_AM.png)
 
 Tutorial for Blockchain / Cryptocurrency Development in Javascript
 
