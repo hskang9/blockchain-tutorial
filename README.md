@@ -10,7 +10,7 @@ Tutorial for Blockchain / Cryptocurrency Development in Javascript
    * 1-1. What is a blockchain anyway
    * 1-2. It All Started with a Hash Function
    * 1-3. Decentralized Network
-   * 1-4. How You Can Get Your Balance 
+   * 1-4. How To Get Your Balance 
    * 1-5. Public & Private keys
 * **2. Let's build a blockchain**
    * 2-1. Build a Transaction 
