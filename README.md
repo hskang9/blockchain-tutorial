@@ -1,5 +1,5 @@
 # blockchain-tutorial
-![demo](https://imgur.com/t8acD8j)
+![demo](https://imgur.com/t8acD8j.gif)
 
 Tutorial for Blockchain / Cryptocurrency Development in Javascript
 
