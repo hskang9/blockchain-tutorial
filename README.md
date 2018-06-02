@@ -11,7 +11,7 @@ Packages to install
 
 # Table of Contents
 * **1. Tutorial
-- 해쉬 함수
+- 해시 함수
 - 블록
 - 블록체인
 - 트랜젝션 해쉬
