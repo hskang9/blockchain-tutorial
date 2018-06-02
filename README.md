@@ -10,7 +10,7 @@ Packages to install
 
 
 # Table of Contents
-* **1. Tutorial
+* **1. Tutorial**
 - 해시 함수
 - 블록
 - 블록체인
